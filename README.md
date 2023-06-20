@@ -1,4 +1,4 @@
-# Proyecto de Automatización con PowerShel
+# Proyecto de Automatización con PowerShell
 
 ## Descripción de los Scripts
 
